@@ -14,11 +14,13 @@
     "FIntDebugForceMSAASamples": "4",
     "FFlagHandleAltEnterFullscreenManually": "False",
     "FFlagShaderLightingRefactor": "True",
-    "FIntRomarkStartWithGraphicQualityLevel": "21",
     "FFlagDebugCheckRenderThreading": "True",
     "FFlagRenderDebugCheckThreading2": "True",
     "DFFlagUseVisBugChecks": "True",
     "FFlagEnableVisBugChecks27": "True",
     "FFlagVisBugChecksThreadYield": "True",
-    "FIntEnableVisBugChecksHundredthPercent27": "100"
+    "FIntEnableVisBugChecksHundredthPercent27": "100",
+    "FFlagCommitToGraphicsQualityFix": "True",
+    "FFlagFixGraphicsQuality": "True",
+    "FFlagDebugForceFSMCPULightCulling": "True"
 }
